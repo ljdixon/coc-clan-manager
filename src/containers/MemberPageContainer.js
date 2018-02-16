@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import firebase from '../firebase.js';
+import 'firebase/firestore';
 import { BrowserRouter, Switch, Route, Link } from 'react-router-dom';
 
 import MemberList from '../components/MemberList.js';
@@ -24,19 +25,19 @@ export class MemberPageContainer extends Component {
         };
     }
     componentDidMount() {
-        const membersRef = firebase.database().ref('members');
-        membersRef.orderByChild('active').equalTo(true).on('value', (snapshot) => {
-            let members = snapshot.val();
+        const membersRef = firebase.firestore().collection('members');
+        membersRef.where("active", "==", true).onSnapshot((snapshot) => {
             let newState = [];
-            for (let member in members) {
+            snapshot.forEach((member) => {
                 newState.push({
-                    memberId: member,
-                    memberName: members[member].name
+                    memberId: member.id,
+                    memberName: member.data().name,
+                    memberActive: member.data().active
                 });
-            }
-            this.setState({
-                members: newState
-            });
+                this.setState({
+                    members: newState
+                });
+            })
         });
     }
 
