@@ -35,7 +35,6 @@ const MemberList = (props) => {
 };
 
 class FormContainer extends Component {
-  //let warSize = 0;
   constructor(props) {
     super(props);
     this.state = {
@@ -43,6 +42,7 @@ class FormContainer extends Component {
       opponentLevel: '',
       warSize: 0,
       activeMembers: [],
+      inactiveMembers: [],
       selectedMembers: [],
       wars: []
     };
@@ -52,19 +52,18 @@ class FormContainer extends Component {
 
 
   componentDidMount() {
-    const membersRef = firebase.database().ref('members');
-    membersRef.orderByChild('active').equalTo(true).on('value', (snapshot) => {
-      let members = snapshot.val();
-      let newState = [];
-      for (let member in members) {
-        newState.push({
-          memberId: member,
-          memberName: members[member].name
-        });
-      }
-      this.setState({
-        activeMembers: newState
-      });
+    const membersRef = firebase.firestore().collection('members');
+    membersRef.where("active", "==", true).onSnapshot((snapshot) => {
+        let newState = [];
+        snapshot.forEach((member) => {
+            newState.push({
+                memberId: member.id,
+                memberName: member.data().name
+            });
+            this.setState({
+                activeMembers: newState
+            });
+        })
     });
   }
 
