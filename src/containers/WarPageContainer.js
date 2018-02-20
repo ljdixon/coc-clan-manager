@@ -24,19 +24,18 @@ export class WarPageContainer extends Component {
         };
     }
     componentDidMount() {
-        const warsRef = firebase.database().ref('wars');
-        warsRef.on('value', (snapshot) => {
-            let wars = snapshot.val();
+        const warsRef = firebase.firestore().collection('wars');
+        warsRef.onSnapshot((snapshot) => {
             let newState = [];
-            for (let war in wars) {
+            snapshot.forEach((war) => {
                 newState.push({
-                    warId: war,
-                    warOpponent: wars[war].opponent
+                    warId: war.id,
+                    warOpponent: war.data().opponent
                 });
-            }
-            this.setState({
-                wars: newState
-            });
+                this.setState({
+                    wars: newState
+                });
+            })
         });
     }
 
