@@ -1,0 +1,5214 @@
+{
+    "wars": [
+      {
+        "id": "11",
+        "enemy_name": "Pvssy LOv3rs",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "56",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "12",
+        "enemy_name": "Spud Monkeys",
+        "enemy_level": "3",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "49",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "13",
+        "enemy_name": "Top Donators",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "14",
+        "enemy_name": "TheBDC",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "15",
+        "enemy_name": "super framers",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "29",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "16",
+        "enemy_name": "GSX",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "52",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "17",
+        "enemy_name": "ALFA Y OMEGA",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "18",
+        "enemy_name": "sakonah",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "40",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "19",
+        "enemy_name": "Oil & Gas Army",
+        "enemy_level": "3",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "8",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "20",
+        "enemy_name": "{{38}}''{{39}}''{{40}}",
+        "enemy_level": "3",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "21",
+        "enemy_name": "###",
+        "enemy_level": "2",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "22",
+        "enemy_name": "KrazyMisfitArmy",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "52",
+        "stars_against": "52",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "23",
+        "enemy_name": "Titanium Galaxy",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "41",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "24",
+        "enemy_name": "WEST OF GROVE",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "44",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "25",
+        "enemy_name": "Wars w/Friends",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "53",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "26",
+        "enemy_name": "300 spartans",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "24",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "27",
+        "enemy_name": "HellAvengersBR",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "41",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "28",
+        "enemy_name": "###",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "22",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "29",
+        "enemy_name": "ThanksBeToGod",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "36",
+        "stars_against": "31",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "30",
+        "enemy_name": "LOS HP D TEDY",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "36",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "31",
+        "enemy_name": "TasteMyRainbow",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "32",
+        "enemy_name": "B.B.J",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "32",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "33",
+        "enemy_name": "Knights of X",
+        "enemy_level": "0",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "50",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "34",
+        "enemy_name": "Clash of Angels",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "28",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "35",
+        "enemy_name": "Rebelion 2.0",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "51",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "36",
+        "enemy_name": "CHARARATTwo",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "44",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "37",
+        "enemy_name": "bAsKiN TiMi",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "65",
+        "stars_against": "37",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "38",
+        "enemy_name": "War Wolverines",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "68",
+        "stars_against": "68",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "39",
+        "enemy_name": "Tainted Blade",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "52",
+        "stars_against": "40",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "40",
+        "enemy_name": "Sanctuary4all",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "38",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "41",
+        "enemy_name": "LOS PISCOLA",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "67",
+        "stars_against": "56",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "42",
+        "enemy_name": "Prospect Posse",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "63",
+        "stars_against": "64",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "43",
+        "enemy_name": "Bukk Wylde",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "46",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "44",
+        "enemy_name": "Proverbios",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "70",
+        "stars_against": "27",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "45",
+        "enemy_name": "HARD-KNOCKS",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "50",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "46",
+        "enemy_name": "Latinoamerica",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "51",
+        "stars_against": "44",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "47",
+        "enemy_name": "TEAM mabAlasik",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "46",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "48",
+        "enemy_name": "Woodbury",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "25",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "49",
+        "enemy_name": "####",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "55",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "50",
+        "enemy_name": "YANGON PHOENIX",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "39",
+        "stars_against": "31",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "51",
+        "enemy_name": "LeGanLiZeNLaN #",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "47",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "52",
+        "enemy_name": "A-007",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "68",
+        "stars_against": "65",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "53",
+        "enemy_name": "Galactic Empire",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "62",
+        "stars_against": "59",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "54",
+        "enemy_name": "Bonnie & Clyde",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "64",
+        "stars_against": "65",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "55",
+        "enemy_name": "MkNo",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "66",
+        "stars_against": "61",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "56",
+        "enemy_name": "thai binh star",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "64",
+        "stars_against": "66",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "57",
+        "enemy_name": "Os Herculoides",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "62",
+        "stars_against": "68",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "58",
+        "enemy_name": "Dark Throne",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "71",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "59",
+        "enemy_name": "DreamDisney &deg;O&deg;",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "68",
+        "stars_against": "58",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "60",
+        "enemy_name": "The Culper Kids",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "68",
+        "stars_against": "61",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "61",
+        "enemy_name": "Spider Pigs",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "69",
+        "stars_against": "40",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "62",
+        "enemy_name": "Shawville",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "64",
+        "stars_against": "55",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "63",
+        "enemy_name": "PH REBELS",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "66",
+        "stars_against": "61",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "64",
+        "enemy_name": "elcherus",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "52",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "65",
+        "enemy_name": "avalancha total",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "71",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "66",
+        "enemy_name": "Jolobu Troopers",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "51",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "67",
+        "enemy_name": "Dark Village",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "36",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "68",
+        "enemy_name": "Connellius",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "71",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "69",
+        "enemy_name": "KINGSandQUEENS",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "66",
+        "stars_against": "65",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "71",
+        "enemy_name": "clashofthebums",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "66",
+        "stars_against": "66",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "73",
+        "enemy_name": "THE KOLONK",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "65",
+        "stars_against": "44",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "74",
+        "enemy_name": "CorpseGrinder",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "63",
+        "stars_against": "64",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "75",
+        "enemy_name": "{{252}}''{{253}}",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "70",
+        "stars_against": "56",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "76",
+        "enemy_name": "ARIZONA GAMERS",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "48",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "77",
+        "enemy_name": "DXB...",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "69",
+        "stars_against": "38",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "78",
+        "enemy_name": "####",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "52",
+        "stars_against": "40",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "79",
+        "enemy_name": "####",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "35",
+        "stars_against": "38",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "80",
+        "enemy_name": "9Leaves",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "37",
+        "stars_against": "28",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "81",
+        "enemy_name": "DreamTeam Chile",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "47",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "82",
+        "enemy_name": "bakit boys?",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "38",
+        "stars_against": "34",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "83",
+        "enemy_name": "Ginting family",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "32",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "84",
+        "enemy_name": "China #9RRC8J0",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "57",
+        "damage_for": "97.65",
+        "damage_against": "93.80"
+      },
+      {
+        "id": "85",
+        "enemy_name": "South Korea",
+        "enemy_level": "0",
+        "enemy_clan_tag": "",
+        "stars_for": "46",
+        "stars_against": "54",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "86",
+        "enemy_name": "Japan Mk-",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "67",
+        "stars_against": "84",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "87",
+        "enemy_name": "Quebec Force 2",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "88",
+        "enemy_name": "ASSASSINS GREED",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "52",
+        "stars_against": "36",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "89",
+        "enemy_name": "SOCIAL EMPIRE",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "52",
+        "stars_against": "44",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "90",
+        "enemy_name": "HEMMA 2.2",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "47",
+        "stars_against": "54",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "91",
+        "enemy_name": "LoneWolfMcQuade",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "63",
+        "stars_against": "67",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "92",
+        "enemy_name": "Army of Doom",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "51",
+        "stars_against": "46",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "93",
+        "enemy_name": "JUNITORS 3.0",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "41",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "94",
+        "enemy_name": "Rev.IndoSATU",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "60",
+        "stars_against": "67",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "95",
+        "enemy_name": "Alpha Phi Alpha",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "46",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "96",
+        "enemy_name": "imperio mortal",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "48",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "97",
+        "enemy_name": "pinas avengers",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "54",
+        "damage_for": "92.25",
+        "damage_against": "93.00"
+      },
+      {
+        "id": "98",
+        "enemy_name": "WonderfulWorld",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "25",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "99",
+        "enemy_name": "ARKHANTOS",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "46",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "100",
+        "enemy_name": "La Autoridad",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "47",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "101",
+        "enemy_name": "China PGG98U9V",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "68",
+        "stars_against": "65",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "102",
+        "enemy_name": "TeamBaruri",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "52",
+        "stars_against": "52",
+        "damage_for": "91.90",
+        "damage_against": "89.30"
+      },
+      {
+        "id": "103",
+        "enemy_name": "AFTER",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "38",
+        "damage_for": "92.30",
+        "damage_against": "71.15"
+      },
+      {
+        "id": "104",
+        "enemy_name": "PAMPANGA DRAGON",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "52",
+        "stars_against": "51",
+        "damage_for": "88.65",
+        "damage_against": "90.60"
+      },
+      {
+        "id": "105",
+        "enemy_name": "..",
+        "enemy_level": "5",
+        "enemy_clan_tag": "#POJQWUY",
+        "stars_for": "50",
+        "stars_against": "49",
+        "damage_for": "88.45",
+        "damage_against": "86.90"
+      },
+      {
+        "id": "106",
+        "enemy_name": "PERDEDORES BR.",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "47",
+        "stars_against": "54",
+        "damage_for": "86.15",
+        "damage_against": "94.15"
+      },
+      {
+        "id": "107",
+        "enemy_name": "FORCEFUL ENTRY",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "66",
+        "stars_against": "65",
+        "damage_for": "91.28",
+        "damage_against": "89.32"
+      },
+      {
+        "id": "108",
+        "enemy_name": "PSICODELICOS",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "49",
+        "stars_against": "50",
+        "damage_for": "88.70",
+        "damage_against": "87.65"
+      },
+      {
+        "id": "109",
+        "enemy_name": "Elite BumzZz",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "39",
+        "stars_against": "38",
+        "damage_for": "87.27",
+        "damage_against": "86.33"
+      },
+      {
+        "id": "110",
+        "enemy_name": "HUMAN",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "35",
+        "stars_against": "40",
+        "damage_for": "83.67",
+        "damage_against": "95.73"
+      },
+      {
+        "id": "111",
+        "enemy_name": "WARNING...",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "32",
+        "damage_for": "94.33",
+        "damage_against": "77.40"
+      },
+      {
+        "id": "112",
+        "enemy_name": "sriwijava 2",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "32",
+        "damage_for": "91.13",
+        "damage_against": "83.47"
+      },
+      {
+        "id": "113",
+        "enemy_name": "SPIDER COPS",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "37",
+        "damage_for": "91.60",
+        "damage_against": "91.00"
+      },
+      {
+        "id": "114",
+        "enemy_name": "LA HERMANDAD",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "43",
+        "damage_for": "91.07",
+        "damage_against": "96.93"
+      },
+      {
+        "id": "115",
+        "enemy_name": "HueHueteotl",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "45",
+        "damage_for": "97.30",
+        "damage_against": "84.35"
+      },
+      {
+        "id": "116",
+        "enemy_name": "CHAMPBOX PRO",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "52",
+        "damage_for": "91.25",
+        "damage_against": "89.90"
+      },
+      {
+        "id": "117",
+        "enemy_name": "China P22JUUR9",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "50",
+        "damage_for": "95.50",
+        "damage_against": "85.70"
+      },
+      {
+        "id": "118",
+        "enemy_name": "Russia P92UCJ2R",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "51",
+        "damage_for": "92.20",
+        "damage_against": "89.45"
+      },
+      {
+        "id": "119",
+        "enemy_name": "LOS SOLFAMIDAS",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "55",
+        "damage_for": "94.70",
+        "damage_against": "94.45"
+      },
+      {
+        "id": "120",
+        "enemy_name": "OGDragonWarrior",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "52",
+        "damage_for": "95.45",
+        "damage_against": "91.50"
+      },
+      {
+        "id": "121",
+        "enemy_name": "KTP 5305",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "56",
+        "damage_for": "77.25",
+        "damage_against": "94.70"
+      },
+      {
+        "id": "122",
+        "enemy_name": "Heritagebudz",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "50",
+        "stars_against": "53",
+        "damage_for": "90.35",
+        "damage_against": "91.70"
+      },
+      {
+        "id": "123",
+        "enemy_name": "The Master Clan",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "39",
+        "damage_for": "95.70",
+        "damage_against": "71.30"
+      },
+      {
+        "id": "124",
+        "enemy_name": "ZELZELE ZADEGAN",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "54",
+        "damage_for": "91.35",
+        "damage_against": "91.55"
+      },
+      {
+        "id": "125",
+        "enemy_name": "Mighty Meisters",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "37",
+        "damage_for": "92.20",
+        "damage_against": "86.13"
+      },
+      {
+        "id": "126",
+        "enemy_name": "Legal Consent",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "48",
+        "damage_for": "94.10",
+        "damage_against": "84.60"
+      },
+      {
+        "id": "127",
+        "enemy_name": "China GUQUQ",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "49",
+        "stars_against": "59",
+        "damage_for": "84.20",
+        "damage_against": "98.20"
+      },
+      {
+        "id": "128",
+        "enemy_name": "Son of God",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "49",
+        "damage_for": "91.85",
+        "damage_against": "87.35"
+      },
+      {
+        "id": "129",
+        "enemy_name": "Korea PRLJ8L00",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "56",
+        "damage_for": "97.35",
+        "damage_against": "95.20"
+      },
+      {
+        "id": "130",
+        "enemy_name": "imperio souto",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "53",
+        "damage_for": "91.75",
+        "damage_against": "90.40"
+      },
+      {
+        "id": "131",
+        "enemy_name": "Korea YYCQJ8JP",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "45",
+        "damage_for": "96.20",
+        "damage_against": "84.65"
+      },
+      {
+        "id": "132",
+        "enemy_name": "Untamed",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "52",
+        "damage_for": "92.55",
+        "damage_against": "90.70"
+      },
+      {
+        "id": "133",
+        "enemy_name": "China",
+        "enemy_level": "8",
+        "enemy_clan_tag": "9PCPVYJ9",
+        "stars_for": "68",
+        "stars_against": "70",
+        "damage_for": "92.04",
+        "damage_against": "93.28"
+      },
+      {
+        "id": "134",
+        "enemy_name": "Dragon Heart",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "67",
+        "stars_against": "68",
+        "damage_for": "92.16",
+        "damage_against": "92.72"
+      },
+      {
+        "id": "135",
+        "enemy_name": "WePillageU",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "71",
+        "stars_against": "70",
+        "damage_for": "94.24",
+        "damage_against": "95.92"
+      },
+      {
+        "id": "136",
+        "enemy_name": "Gott-Held",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "50",
+        "damage_for": "90.95",
+        "damage_against": "90.65"
+      },
+      {
+        "id": "137",
+        "enemy_name": "ZOMBIERS",
+        "enemy_level": "3",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "13",
+        "damage_for": "92.20",
+        "damage_against": "38.20"
+      },
+      {
+        "id": "138",
+        "enemy_name": "THANH HOA NO.1",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "52",
+        "stars_against": "39",
+        "damage_for": "89.95",
+        "damage_against": "76.85"
+      },
+      {
+        "id": "139",
+        "enemy_name": "spartan peeziel",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "75",
+        "stars_against": "56",
+        "damage_for": "89.67",
+        "damage_against": "74.97"
+      },
+      {
+        "id": "140",
+        "enemy_name": "Shinobi Ambalat",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "94",
+        "stars_against": "94",
+        "damage_for": "91.89",
+        "damage_against": "92.26"
+      },
+      {
+        "id": "141",
+        "enemy_name": "TEAM PUNISHMENT",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "101",
+        "stars_against": "111",
+        "damage_for": "90.40",
+        "damage_against": "93.45"
+      },
+      {
+        "id": "142",
+        "enemy_name": "Roublards",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "82",
+        "stars_against": "30",
+        "damage_for": "93.47",
+        "damage_against": "35.73"
+      },
+      {
+        "id": "143",
+        "enemy_name": "LPSN_ARMY",
+        "enemy_level": "0",
+        "enemy_clan_tag": "",
+        "stars_for": "85",
+        "stars_against": "41",
+        "damage_for": "97.13",
+        "damage_against": "53.13"
+      },
+      {
+        "id": "144",
+        "enemy_name": "ChulosArtos",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "86",
+        "stars_against": "61",
+        "damage_for": "95.57",
+        "damage_against": "75.60"
+      },
+      {
+        "id": "145",
+        "enemy_name": "Monagas Vzla",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "82",
+        "stars_against": "83",
+        "damage_for": "95.27",
+        "damage_against": "94.83"
+      },
+      {
+        "id": "146",
+        "enemy_name": "Medallo Elite",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "64",
+        "stars_against": "67",
+        "damage_for": "91.56",
+        "damage_against": "91.40"
+      },
+      {
+        "id": "147",
+        "enemy_name": "BALIKBAYAN GUYS",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "48",
+        "damage_for": "94.45",
+        "damage_against": "85.95"
+      },
+      {
+        "id": "148",
+        "enemy_name": "WaVe",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "66",
+        "stars_against": "60",
+        "damage_for": "92.60",
+        "damage_against": "86.20"
+      },
+      {
+        "id": "149",
+        "enemy_name": "HEROES DEFENDER",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "83",
+        "stars_against": "70",
+        "damage_for": "94.80",
+        "damage_against": "81.67"
+      },
+      {
+        "id": "150",
+        "enemy_name": "Gumaca Lentwise",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "72",
+        "stars_against": "68",
+        "damage_for": "95.80",
+        "damage_against": "95.08"
+      },
+      {
+        "id": "151",
+        "enemy_name": "Darc Nights",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "74",
+        "stars_against": "87",
+        "damage_for": "86.53",
+        "damage_against": "98.33"
+      },
+      {
+        "id": "152",
+        "enemy_name": "Clash For Cash",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "63",
+        "stars_against": "71",
+        "damage_for": "89.16",
+        "damage_against": "94.64"
+      },
+      {
+        "id": "153",
+        "enemy_name": "broggernauts",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "66",
+        "stars_against": "66",
+        "damage_for": "92.68",
+        "damage_against": "92.56"
+      },
+      {
+        "id": "154",
+        "enemy_name": "The_Destroyers",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "67",
+        "stars_against": "71",
+        "damage_for": "91.80",
+        "damage_against": "95.20"
+      },
+      {
+        "id": "155",
+        "enemy_name": "MADE IN CR506",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "50",
+        "stars_against": "51",
+        "damage_for": "84.30",
+        "damage_against": "93.25"
+      },
+      {
+        "id": "156",
+        "enemy_name": "SaugaCity Jr",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "54",
+        "damage_for": "92.25",
+        "damage_against": "92.60"
+      },
+      {
+        "id": "157",
+        "enemy_name": "Scout/Attack",
+        "enemy_level": "1",
+        "enemy_clan_tag": "",
+        "stars_for": "51",
+        "stars_against": "52",
+        "damage_for": "88.90",
+        "damage_against": "90.90"
+      },
+      {
+        "id": "158",
+        "enemy_name": "Maung Garsel",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "30",
+        "damage_for": "97.07",
+        "damage_against": "75.53"
+      },
+      {
+        "id": "159",
+        "enemy_name": "L@gun@ phil.",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "45",
+        "damage_for": "97.05",
+        "damage_against": "74.50"
+      },
+      {
+        "id": "160",
+        "enemy_name": "b*tch_wreckers",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "53",
+        "damage_for": "97.55",
+        "damage_against": "91.05"
+      },
+      {
+        "id": "161",
+        "enemy_name": "DUSUN ARCHER",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "60",
+        "stars_against": "48",
+        "damage_for": "100.00",
+        "damage_against": "80.35"
+      },
+      {
+        "id": "162",
+        "enemy_name": "aztecas",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "46",
+        "damage_for": "94.35",
+        "damage_against": "82.65"
+      },
+      {
+        "id": "163",
+        "enemy_name": "ELITE DESTROYER",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "50",
+        "stars_against": "27",
+        "damage_for": "84.00",
+        "damage_against": "55.70"
+      },
+      {
+        "id": "164",
+        "enemy_name": "SKILLED GAMERS",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "52",
+        "damage_for": "94.60",
+        "damage_against": "90.30"
+      },
+      {
+        "id": "165",
+        "enemy_name": "Heroizinhos",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "58",
+        "damage_for": "93.45",
+        "damage_against": "98.40"
+      },
+      {
+        "id": "166",
+        "enemy_name": "knob jockeys",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "46",
+        "damage_for": "96.95",
+        "damage_against": "80.70"
+      },
+      {
+        "id": "167",
+        "enemy_name": "A_ssault Life",
+        "enemy_level": "3",
+        "enemy_clan_tag": "",
+        "stars_for": "52",
+        "stars_against": "48",
+        "damage_for": "93.65",
+        "damage_against": "87.35"
+      },
+      {
+        "id": "168",
+        "enemy_name": "Canadian Bacon",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "55",
+        "damage_for": "91.60",
+        "damage_against": "92.80"
+      },
+      {
+        "id": "169",
+        "enemy_name": "THE KICKOUT",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "50",
+        "stars_against": "48",
+        "damage_for": "90.60",
+        "damage_against": "82.85"
+      },
+      {
+        "id": "170",
+        "enemy_name": "Phildians***",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "39",
+        "stars_against": "32",
+        "damage_for": "89.53",
+        "damage_against": "76.73"
+      },
+      {
+        "id": "171",
+        "enemy_name": "PEJUANG UTSG",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "51",
+        "damage_for": "94.80",
+        "damage_against": "89.50"
+      },
+      {
+        "id": "172",
+        "enemy_name": "COUNTER ATTACH",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "70",
+        "stars_against": "61",
+        "damage_for": "95.16",
+        "damage_against": "86.52"
+      },
+      {
+        "id": "173",
+        "enemy_name": "The Clasher",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "68",
+        "stars_against": "72",
+        "damage_for": "92.40",
+        "damage_against": "99.80"
+      },
+      {
+        "id": "174",
+        "enemy_name": "{ AE MOT LONG }",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "28",
+        "damage_for": "95.80",
+        "damage_against": "72.40"
+      },
+      {
+        "id": "175",
+        "enemy_name": "KADIMUS",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "41",
+        "damage_for": "94.53",
+        "damage_against": "94.00"
+      },
+      {
+        "id": "176",
+        "enemy_name": "{{657}}''{{658}}",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "39",
+        "damage_for": "93.27",
+        "damage_against": "90.47"
+      },
+      {
+        "id": "177",
+        "enemy_name": "#Player.Ph",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "15",
+        "damage_for": "96.67",
+        "damage_against": "32.13"
+      },
+      {
+        "id": "178",
+        "enemy_name": "CLAN LIFE",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "49",
+        "damage_for": "91.65",
+        "damage_against": "86.65"
+      },
+      {
+        "id": "179",
+        "enemy_name": "ShortBus Gamers",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "58",
+        "damage_for": "93.45",
+        "damage_against": "98.75"
+      },
+      {
+        "id": "180",
+        "enemy_name": "Castle Black",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "35",
+        "damage_for": "98.40",
+        "damage_against": "85.27"
+      },
+      {
+        "id": "181",
+        "enemy_name": "Kosan Bujang",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "27",
+        "damage_for": "96.53",
+        "damage_against": "66.80"
+      },
+      {
+        "id": "182",
+        "enemy_name": "The Outer Realm",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "49",
+        "damage_for": "93.25",
+        "damage_against": "89.05"
+      },
+      {
+        "id": "183",
+        "enemy_name": "Knights ofMalta",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "43",
+        "damage_for": "93.33",
+        "damage_against": "95.53"
+      },
+      {
+        "id": "184",
+        "enemy_name": "REQ&GTFO SQUAD",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "29",
+        "damage_for": "98.67",
+        "damage_against": "69.20"
+      },
+      {
+        "id": "185",
+        "enemy_name": "The Gray Death",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "36",
+        "damage_for": "91.93",
+        "damage_against": "88.87"
+      },
+      {
+        "id": "186",
+        "enemy_name": "AGL tgi",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "52",
+        "damage_for": "91.80",
+        "damage_against": "88.55"
+      },
+      {
+        "id": "187",
+        "enemy_name": "GARUDA ELITE",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "37",
+        "stars_against": "37",
+        "damage_for": "85.07",
+        "damage_against": "89.20"
+      },
+      {
+        "id": "188",
+        "enemy_name": "Londrina strike",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "30",
+        "damage_for": "95.13",
+        "damage_against": "76.80"
+      },
+      {
+        "id": "189",
+        "enemy_name": "SLCachorreira",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "37",
+        "damage_for": "91.87",
+        "damage_against": "86.80"
+      },
+      {
+        "id": "190",
+        "enemy_name": "Korea 9289UJY9",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "49",
+        "stars_against": "56",
+        "damage_for": "84.65",
+        "damage_against": "94.70"
+      },
+      {
+        "id": "191",
+        "enemy_name": "Rio Preto-SP",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "38",
+        "damage_for": "96.53",
+        "damage_against": "89.00"
+      },
+      {
+        "id": "192",
+        "enemy_name": "Texas Allstars",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "38",
+        "stars_against": "40",
+        "damage_for": "88.00",
+        "damage_against": "92.27"
+      },
+      {
+        "id": "193",
+        "enemy_name": "South Korea #88R8G00G",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "50",
+        "damage_for": "93.20",
+        "damage_against": "87.35"
+      },
+      {
+        "id": "194",
+        "enemy_name": "JustRun",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "39",
+        "damage_for": "98.80",
+        "damage_against": "87.00"
+      },
+      {
+        "id": "195",
+        "enemy_name": "LOS COLIDERES",
+        "enemy_level": "3",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "41",
+        "damage_for": "92.27",
+        "damage_against": "94.53"
+      },
+      {
+        "id": "196",
+        "enemy_name": "DeadHouse Elite",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "27",
+        "stars_against": "18",
+        "damage_for": "97.20",
+        "damage_against": "65.00"
+      },
+      {
+        "id": "197",
+        "enemy_name": "*ClashCon ph*16",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "27",
+        "stars_against": "24",
+        "damage_for": "94.50",
+        "damage_against": "85.30"
+      },
+      {
+        "id": "198",
+        "enemy_name": "WAR INC",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "27",
+        "stars_against": "24",
+        "damage_for": "96.30",
+        "damage_against": "82.30"
+      },
+      {
+        "id": "199",
+        "enemy_name": "Wildcat Country",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "37",
+        "damage_for": "95.87",
+        "damage_against": "88.20"
+      },
+      {
+        "id": "200",
+        "enemy_name": "Malag Infantry",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "54",
+        "damage_for": "94.10",
+        "damage_against": "92.00"
+      },
+      {
+        "id": "201",
+        "enemy_name": "ManBeerPig",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "42",
+        "damage_for": "98.67",
+        "damage_against": "96.07"
+      },
+      {
+        "id": "202",
+        "enemy_name": "black dRagons",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "51",
+        "damage_for": "90.85",
+        "damage_against": "87.60"
+      },
+      {
+        "id": "203",
+        "enemy_name": "Revenge on Jed",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "45",
+        "damage_for": "95.10",
+        "damage_against": "83.55"
+      },
+      {
+        "id": "204",
+        "enemy_name": "DDN BDG RIDDER",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "55",
+        "damage_for": "95.55",
+        "damage_against": "95.40"
+      },
+      {
+        "id": "205",
+        "enemy_name": "da-Rae castle",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "52",
+        "stars_against": "53",
+        "damage_for": "90.45",
+        "damage_against": "94.40"
+      },
+      {
+        "id": "206",
+        "enemy_name": "Dekapatari",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "72",
+        "stars_against": "59",
+        "damage_for": "96.60",
+        "damage_against": "86.68"
+      },
+      {
+        "id": "207",
+        "enemy_name": "WiLd aNd fReE",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "74",
+        "stars_against": "51",
+        "damage_for": "99.68",
+        "damage_against": "69.40"
+      },
+      {
+        "id": "208",
+        "enemy_name": "FOR THE LOYAL!",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "38",
+        "stars_against": "57",
+        "damage_for": "65.35",
+        "damage_against": "95.75"
+      },
+      {
+        "id": "209",
+        "enemy_name": "Redneck Nation",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "46",
+        "damage_for": "94.25",
+        "damage_against": "86.85"
+      },
+      {
+        "id": "210",
+        "enemy_name": "Semper",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "41",
+        "damage_for": "100.00",
+        "damage_against": "96.53"
+      },
+      {
+        "id": "211",
+        "enemy_name": "TimBukar Clan",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "19",
+        "damage_for": "100.00",
+        "damage_against": "51.13"
+      },
+      {
+        "id": "212",
+        "enemy_name": "S. H. Beginners",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "39",
+        "stars_against": "37",
+        "damage_for": "90.13",
+        "damage_against": "87.13"
+      },
+      {
+        "id": "213",
+        "enemy_name": "Iraq #9JP92QQ8",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "24",
+        "stars_against": "23",
+        "damage_for": "88.40",
+        "damage_against": "82.30"
+      },
+      {
+        "id": "214",
+        "enemy_name": "AE Vinh City",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "27",
+        "stars_against": "26",
+        "damage_for": "94.50",
+        "damage_against": "86.50"
+      },
+      {
+        "id": "215",
+        "enemy_name": "AKATSUKI PRO",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "19",
+        "damage_for": "96.20",
+        "damage_against": "46.47"
+      },
+      {
+        "id": "216",
+        "enemy_name": "Splintered Cell",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "42",
+        "damage_for": "92.80",
+        "damage_against": "96.53"
+      },
+      {
+        "id": "217",
+        "enemy_name": "China #L8L8YQG",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "23",
+        "damage_for": "100.00",
+        "damage_against": "82.80"
+      },
+      {
+        "id": "218",
+        "enemy_name": "PETRUSCLAN",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "42",
+        "damage_for": "96.33",
+        "damage_against": "95.33"
+      },
+      {
+        "id": "219",
+        "enemy_name": "LOVE 38 LOVE",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "7",
+        "damage_for": "100.00",
+        "damage_against": "36.60"
+      },
+      {
+        "id": "220",
+        "enemy_name": "UntOUcHaBLeS",
+        "enemy_level": "1",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "39",
+        "damage_for": "94.87",
+        "damage_against": "92.53"
+      },
+      {
+        "id": "221",
+        "enemy_name": "MAJENANG VIP",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "36",
+        "damage_for": "97.40",
+        "damage_against": "85.13"
+      },
+      {
+        "id": "222",
+        "enemy_name": "@warzone",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "39",
+        "stars_against": "42",
+        "damage_for": "94.20",
+        "damage_against": "97.27"
+      },
+      {
+        "id": "223",
+        "enemy_name": "Team DeafBrazil",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "41",
+        "damage_for": "94.20",
+        "damage_against": "97.27"
+      },
+      {
+        "id": "224",
+        "enemy_name": "NIGHT DOGS(SPT)",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "25",
+        "damage_for": "98.20",
+        "damage_against": "71.73"
+      },
+      {
+        "id": "225",
+        "enemy_name": "HTB skill boys",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "36",
+        "damage_for": "97.20",
+        "damage_against": "82.00"
+      },
+      {
+        "id": "226",
+        "enemy_name": "Disney Boyz",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "13",
+        "damage_for": "100.00",
+        "damage_against": "42.87"
+      },
+      {
+        "id": "227",
+        "enemy_name": "WePillageU",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "37",
+        "damage_for": "93.60",
+        "damage_against": "89.87"
+      },
+      {
+        "id": "228",
+        "enemy_name": "GTFO ME FARM",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "25",
+        "stars_against": "25",
+        "damage_for": "82.90",
+        "damage_against": "91.10"
+      },
+      {
+        "id": "229",
+        "enemy_name": "-THE KINGDOM-",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "36",
+        "damage_for": "95.80",
+        "damage_against": "87.73"
+      },
+      {
+        "id": "230",
+        "enemy_name": "OTTAWA BEAVERS",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "38",
+        "stars_against": "39",
+        "damage_for": "90.07",
+        "damage_against": "88.33"
+      },
+      {
+        "id": "231",
+        "enemy_name": "Fireball",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "26",
+        "stars_against": "25",
+        "damage_for": "91.40",
+        "damage_against": "91.90"
+      },
+      {
+        "id": "232",
+        "enemy_name": "BorrachosHN",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "9",
+        "damage_for": "100.00",
+        "damage_against": "30.00"
+      },
+      {
+        "id": "233",
+        "enemy_name": "Elite Quebec",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "27",
+        "stars_against": "27",
+        "damage_for": "95.20",
+        "damage_against": "93.60"
+      },
+      {
+        "id": "235",
+        "enemy_name": "Avacyns House",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "41",
+        "damage_for": "94.33",
+        "damage_against": "92.27"
+      },
+      {
+        "id": "236",
+        "enemy_name": "MandaNudes",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "26",
+        "stars_against": "22",
+        "damage_for": "90.70",
+        "damage_against": "88.50"
+      },
+      {
+        "id": "237",
+        "enemy_name": "{{898}}''{{899}}",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "32",
+        "damage_for": "95.40",
+        "damage_against": "75.80"
+      },
+      {
+        "id": "238",
+        "enemy_name": "The M.T.eS",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "52",
+        "damage_for": "97.20",
+        "damage_against": "88.90"
+      },
+      {
+        "id": "239",
+        "enemy_name": "War Mongrels",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "39",
+        "stars_against": "39",
+        "damage_for": "92.60",
+        "damage_against": "90.60"
+      },
+      {
+        "id": "240",
+        "enemy_name": "MPC Assassins",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "55",
+        "damage_for": "93.95",
+        "damage_against": "94.90"
+      },
+      {
+        "id": "241",
+        "enemy_name": "Elite Coc U.BR",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "57",
+        "damage_for": "96.90",
+        "damage_against": "98.25"
+      },
+      {
+        "id": "242",
+        "enemy_name": "A.H.KNIGHT",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "68",
+        "stars_against": "66",
+        "damage_for": "93.24",
+        "damage_against": "89.44"
+      },
+      {
+        "id": "243",
+        "enemy_name": "Renis Riders",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "52",
+        "stars_against": "54",
+        "damage_for": "90.00",
+        "damage_against": "94.60"
+      },
+      {
+        "id": "244",
+        "enemy_name": "MarMedClans",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "25",
+        "damage_for": "100.00",
+        "damage_against": "67.87"
+      },
+      {
+        "id": "245",
+        "enemy_name": "LOOTING 101",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "56",
+        "damage_for": "99.25",
+        "damage_against": "96.55"
+      },
+      {
+        "id": "246",
+        "enemy_name": "Sango Roto",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "60",
+        "stars_against": "48",
+        "damage_for": "100.00",
+        "damage_against": "90.25"
+      },
+      {
+        "id": "247",
+        "enemy_name": "Paper Chaser",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "34",
+        "damage_for": "97.27",
+        "damage_against": "80.33"
+      },
+      {
+        "id": "248",
+        "enemy_name": "SubWolves",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "33",
+        "damage_for": "98.20",
+        "damage_against": "77.40"
+      },
+      {
+        "id": "249",
+        "enemy_name": "Familysecta MDP",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "51",
+        "damage_for": "97.55",
+        "damage_against": "91.45"
+      },
+      {
+        "id": "250",
+        "enemy_name": "China 9P9GQVCL",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "44",
+        "damage_for": "98.40",
+        "damage_against": "98.53"
+      },
+      {
+        "id": "251",
+        "enemy_name": "Temerarios",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "35",
+        "stars_against": "45",
+        "damage_for": "82.33",
+        "damage_against": "100.00"
+      },
+      {
+        "id": "252",
+        "enemy_name": "myanmar chitthu",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "28",
+        "stars_against": "25",
+        "damage_for": "93.40",
+        "damage_against": "88.20"
+      },
+      {
+        "id": "253",
+        "enemy_name": "i zone",
+        "enemy_level": "1",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "36",
+        "damage_for": "95.73",
+        "damage_against": "85.53"
+      },
+      {
+        "id": "255",
+        "enemy_name": "PH LEGENDARY",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "37",
+        "damage_for": "97.33",
+        "damage_against": "85.33"
+      },
+      {
+        "id": "257",
+        "enemy_name": "los ladillas",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "37",
+        "damage_for": "94.13",
+        "damage_against": "88.47"
+      },
+      {
+        "id": "258",
+        "enemy_name": "China QRJCVVRR",
+        "enemy_level": "2",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "22",
+        "damage_for": "94.73",
+        "damage_against": "54.47"
+      },
+      {
+        "id": "259",
+        "enemy_name": "China #Q8YGVPVU",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "55",
+        "damage_for": "97.80",
+        "damage_against": "79.05"
+      },
+      {
+        "id": "260",
+        "enemy_name": "SCORPION!ph06",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "37",
+        "stars_against": "40",
+        "damage_for": "87.87",
+        "damage_against": "90.87"
+      },
+      {
+        "id": "261",
+        "enemy_name": "Unpeacefuls",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "37",
+        "damage_for": "98.47",
+        "damage_against": "87.40"
+      },
+      {
+        "id": "262",
+        "enemy_name": "ILONGO WARRIOR",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "29",
+        "damage_for": "100.00",
+        "damage_against": "66.80"
+      },
+      {
+        "id": "263",
+        "enemy_name": "Clup The Men",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "52",
+        "damage_for": "98.70",
+        "damage_against": "92.95"
+      },
+      {
+        "id": "264",
+        "enemy_name": "Soul Assassins",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "49",
+        "damage_for": "97.25",
+        "damage_against": "88.80"
+      },
+      {
+        "id": "265",
+        "enemy_name": "Elite4War",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "39",
+        "damage_for": "100.00",
+        "damage_against": "94.60"
+      },
+      {
+        "id": "266",
+        "enemy_name": "PropsR4Boats",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "45",
+        "damage_for": "98.93",
+        "damage_against": "100.00"
+      },
+      {
+        "id": "267",
+        "enemy_name": "KONOHA",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "37",
+        "stars_against": "18",
+        "damage_for": "89.53",
+        "damage_against": "39.80"
+      },
+      {
+        "id": "268",
+        "enemy_name": "Ads Forever",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "28",
+        "damage_for": "98.93",
+        "damage_against": "62.67"
+      },
+      {
+        "id": "269",
+        "enemy_name": "#PPUV9GRJ",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "54",
+        "damage_for": "96.75",
+        "damage_against": "92.70"
+      },
+      {
+        "id": "270",
+        "enemy_name": "campeones.com",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "39",
+        "stars_against": "30",
+        "damage_for": "90.60",
+        "damage_against": "72.60"
+      },
+      {
+        "id": "271",
+        "enemy_name": "Soul Takerz",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "60",
+        "stars_against": "50",
+        "damage_for": "100.00",
+        "damage_against": "89.00"
+      },
+      {
+        "id": "273",
+        "enemy_name": "PARAGUAY-PRO 3",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "73",
+        "stars_against": "79",
+        "damage_for": "89.43",
+        "damage_against": "91.47"
+      },
+      {
+        "id": "274",
+        "enemy_name": "Ca Chua",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "52",
+        "stars_against": "57",
+        "damage_for": "87.25",
+        "damage_against": "97.15"
+      },
+      {
+        "id": "275",
+        "enemy_name": "WON WAY",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "35",
+        "damage_for": "97.13",
+        "damage_against": "84.67"
+      },
+      {
+        "id": "276",
+        "enemy_name": "Uninhabitable",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "53",
+        "damage_for": "97.15",
+        "damage_against": "93.95"
+      },
+      {
+        "id": "277",
+        "enemy_name": "SABA HOND",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "55",
+        "damage_for": "98.45",
+        "damage_against": "96.30"
+      },
+      {
+        "id": "278",
+        "enemy_name": "Dread Pirates",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "55",
+        "damage_for": "97.65",
+        "damage_against": "94.15"
+      },
+      {
+        "id": "279",
+        "enemy_name": "TacaLePau",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "42",
+        "damage_for": "97.27",
+        "damage_against": "94.33"
+      },
+      {
+        "id": "280",
+        "enemy_name": "Bem Tau Khua",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "43",
+        "damage_for": "98.07",
+        "damage_against": "98.00"
+      },
+      {
+        "id": "281",
+        "enemy_name": "Deconstruction",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "37",
+        "damage_for": "99.13",
+        "damage_against": "90.73"
+      },
+      {
+        "id": "282",
+        "enemy_name": "{{1067}}''{{1068}}",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "60",
+        "stars_against": "60",
+        "damage_for": "100.00",
+        "damage_against": "100.00"
+      },
+      {
+        "id": "283",
+        "enemy_name": "NAXXARRAMAS",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "71",
+        "stars_against": "61",
+        "damage_for": "97.16",
+        "damage_against": "84.48"
+      },
+      {
+        "id": "284",
+        "enemy_name": "ROCKASAURUS",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "73",
+        "stars_against": "68",
+        "damage_for": "99.24",
+        "damage_against": "94.08"
+      },
+      {
+        "id": "285",
+        "enemy_name": "DREAM TEAM",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "73",
+        "stars_against": "64",
+        "damage_for": "97.96",
+        "damage_against": "88.96"
+      },
+      {
+        "id": "286",
+        "enemy_name": ":] tm",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "75",
+        "stars_against": "75",
+        "damage_for": "100.00",
+        "damage_against": "100.00"
+      },
+      {
+        "id": "287",
+        "enemy_name": "Hog Rider Horde",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "72",
+        "stars_against": "69",
+        "damage_for": "97.72",
+        "damage_against": "94.84"
+      },
+      {
+        "id": "288",
+        "enemy_name": "Poder Latino",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "23",
+        "damage_for": "100.00",
+        "damage_against": "51.73"
+      },
+      {
+        "id": "289",
+        "enemy_name": "AlAhlY EgypT",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "57",
+        "damage_for": "95.25",
+        "damage_against": "96.20"
+      },
+      {
+        "id": "290",
+        "enemy_name": "Death Glow",
+        "enemy_level": "0",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "41",
+        "damage_for": "95.00",
+        "damage_against": "93.93"
+      },
+      {
+        "id": "291",
+        "enemy_name": "santa cruz bol",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "31",
+        "damage_for": "96.80",
+        "damage_against": "78.27"
+      },
+      {
+        "id": "292",
+        "enemy_name": "active-friends",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "32",
+        "damage_for": "98.00",
+        "damage_against": "78.27"
+      },
+      {
+        "id": "293",
+        "enemy_name": "Anvar_DT.88",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "54",
+        "damage_for": "96.20",
+        "damage_against": "94.55"
+      },
+      {
+        "id": "294",
+        "enemy_name": "Surigaonun clan",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "54",
+        "damage_for": "99.45",
+        "damage_against": "91.45"
+      },
+      {
+        "id": "295",
+        "enemy_name": "Pinoy Clasher26",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "56",
+        "damage_for": "95.70",
+        "damage_against": "95.20"
+      },
+      {
+        "id": "296",
+        "enemy_name": "beg for mercy",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "58",
+        "damage_for": "99.95",
+        "damage_against": "99.00"
+      },
+      {
+        "id": "297",
+        "enemy_name": "3 Black Stars",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "60",
+        "damage_for": "96.70",
+        "damage_against": "100.00"
+      },
+      {
+        "id": "298",
+        "enemy_name": "CoCo",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "54",
+        "damage_for": "99.75",
+        "damage_against": "92.85"
+      },
+      {
+        "id": "299",
+        "enemy_name": "UYAPADZ CLAN",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "53",
+        "damage_for": "94.65",
+        "damage_against": "91.30"
+      },
+      {
+        "id": "300",
+        "enemy_name": "Master Minds",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "39",
+        "damage_for": "94.85",
+        "damage_against": "67.75"
+      },
+      {
+        "id": "301",
+        "enemy_name": "FIGHTER HERO",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "68",
+        "stars_against": "64",
+        "damage_for": "94.88",
+        "damage_against": "87.92"
+      },
+      {
+        "id": "302",
+        "enemy_name": "UruPro",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "48",
+        "damage_for": "97.65",
+        "damage_against": "86.45"
+      },
+      {
+        "id": "303",
+        "enemy_name": "Clan #8JLYP902",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "58",
+        "damage_for": "98.60",
+        "damage_against": "98.50"
+      },
+      {
+        "id": "304",
+        "enemy_name": "Wrecking Crew",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "57",
+        "damage_for": "96.00",
+        "damage_against": "96.55"
+      },
+      {
+        "id": "305",
+        "enemy_name": "BEAST-MODE",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "34",
+        "damage_for": "99.05",
+        "damage_against": "72.50"
+      },
+      {
+        "id": "306",
+        "enemy_name": "BFC_troops",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "35",
+        "damage_for": "96.93",
+        "damage_against": "76.13"
+      },
+      {
+        "id": "307",
+        "enemy_name": "Clan #JUCQVRV",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "30",
+        "damage_for": "92.27",
+        "damage_against": "78.60"
+      },
+      {
+        "id": "308",
+        "enemy_name": "MAKARA677757",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "21",
+        "damage_for": "99.90",
+        "damage_against": "78.20"
+      },
+      {
+        "id": "309",
+        "enemy_name": "Grave Digger",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "42",
+        "damage_for": "94.80",
+        "damage_against": "94.07"
+      },
+      {
+        "id": "310",
+        "enemy_name": "FILIPINO MOVES",
+        "enemy_level": "3",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "58",
+        "damage_for": "98.35",
+        "damage_against": "97.25"
+      },
+      {
+        "id": "311",
+        "enemy_name": "AssassiN CLANS",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "51",
+        "damage_for": "95.60",
+        "damage_against": "87.30"
+      },
+      {
+        "id": "312",
+        "enemy_name": "TraNquil ChaoS",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "58",
+        "damage_for": "95.85",
+        "damage_against": "98.15"
+      },
+      {
+        "id": "313",
+        "enemy_name": "Tangkhul Empire",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "50",
+        "damage_for": "94.75",
+        "damage_against": "88.10"
+      },
+      {
+        "id": "314",
+        "enemy_name": "ZOMBIE MOOD",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "53",
+        "damage_for": "96.85",
+        "damage_against": "92.05"
+      },
+      {
+        "id": "315",
+        "enemy_name": "The Southerners",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "52",
+        "damage_for": "99.15",
+        "damage_against": "91.05"
+      },
+      {
+        "id": "316",
+        "enemy_name": "GATERBAIT",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "54",
+        "damage_for": "97.90",
+        "damage_against": "92.70"
+      },
+      {
+        "id": "317",
+        "enemy_name": "RedRobinYum Jr.",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "71",
+        "stars_against": "73",
+        "damage_for": "95.20",
+        "damage_against": "97.08"
+      },
+      {
+        "id": "318",
+        "enemy_name": "LIL BERSERKERS",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "55",
+        "damage_for": "97.65",
+        "damage_against": "96.65"
+      },
+      {
+        "id": "319",
+        "enemy_name": "Brute Strength",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "43",
+        "damage_for": "97.47",
+        "damage_against": "98.07"
+      },
+      {
+        "id": "320",
+        "enemy_name": "vikings",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "53",
+        "damage_for": "98.30",
+        "damage_against": "87.95"
+      },
+      {
+        "id": "321",
+        "enemy_name": "TheEmpire",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "72",
+        "stars_against": "73",
+        "damage_for": "97.36",
+        "damage_against": "97.72"
+      },
+      {
+        "id": "322",
+        "enemy_name": "BON JOVI",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "39",
+        "damage_for": "100.00",
+        "damage_against": "91.80"
+      },
+      {
+        "id": "323",
+        "enemy_name": "Legion Espanola",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "51",
+        "damage_for": "99.85",
+        "damage_against": "88.75"
+      },
+      {
+        "id": "324",
+        "enemy_name": "Brandall 03",
+        "enemy_level": "2",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "52",
+        "damage_for": "98.05",
+        "damage_against": "89.60"
+      },
+      {
+        "id": "325",
+        "enemy_name": "AG-28 clan",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "20",
+        "damage_for": "95.87",
+        "damage_against": "52.53"
+      },
+      {
+        "id": "326",
+        "enemy_name": "Curramba CoC",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "57",
+        "damage_for": "92.50",
+        "damage_against": "95.75"
+      },
+      {
+        "id": "327",
+        "enemy_name": "Guerreros Z ",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "57",
+        "damage_for": "98.25",
+        "damage_against": "95.50"
+      },
+      {
+        "id": "328",
+        "enemy_name": "THE DOMINATORZ!",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "21",
+        "damage_for": "94.40",
+        "damage_against": "52.53"
+      },
+      {
+        "id": "329",
+        "enemy_name": "{{1256}}''{{1257}}",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "46",
+        "damage_for": "94.65",
+        "damage_against": "83.50"
+      },
+      {
+        "id": "330",
+        "enemy_name": "Adult Parking",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "59",
+        "damage_for": "94.20",
+        "damage_against": "97.65"
+      },
+      {
+        "id": "331",
+        "enemy_name": "PrstigeWrldwide",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "74",
+        "stars_against": "74",
+        "damage_for": "98.92",
+        "damage_against": "99.72"
+      },
+      {
+        "id": "332",
+        "enemy_name": "Syria Clan #L98PC92R",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "51",
+        "damage_for": "96.95",
+        "damage_against": "91.85"
+      },
+      {
+        "id": "333",
+        "enemy_name": "HazMat Junkys",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "43",
+        "damage_for": "98.85",
+        "damage_against": "78.95"
+      },
+      {
+        "id": "334",
+        "enemy_name": "gd(gubukderita)",
+        "enemy_level": "3",
+        "enemy_clan_tag": "",
+        "stars_for": "60",
+        "stars_against": "23",
+        "damage_for": "100.00",
+        "damage_against": "41.35"
+      },
+      {
+        "id": "335",
+        "enemy_name": "SUPERCHARGERS",
+        "enemy_level": "0",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "28",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "336",
+        "enemy_name": "Deathdly Sins ",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "60",
+        "stars_against": "4",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "337",
+        "enemy_name": "LegionARG",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "49",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "338",
+        "enemy_name": "{{1293}}''{{1294}}",
+        "enemy_level": "0",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "54",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "339",
+        "enemy_name": "LOS ROMPE NOLAS",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "59",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "340",
+        "enemy_name": "Los Esqueletor",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "74",
+        "stars_against": "53",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "341",
+        "enemy_name": "SUMITOMO GROUP",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "54",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "342",
+        "enemy_name": "WarZone ",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "60",
+        "stars_against": "60",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "346",
+        "enemy_name": "Minions Bukid",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "347",
+        "enemy_name": "Minas Brasi",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "42",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "348",
+        "enemy_name": "NETUNO REX 1",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "59",
+        "damage_for": "98.30",
+        "damage_against": "98.10"
+      },
+      {
+        "id": "349",
+        "enemy_name": "ANAK RANTAO47",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "49",
+        "damage_for": "99.65",
+        "damage_against": "84.45"
+      },
+      {
+        "id": "350",
+        "enemy_name": "Kings Of Chaos",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "60",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "351",
+        "enemy_name": "Bang Huynh De",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "58",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "353",
+        "enemy_name": "BROTHER army",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "13",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "354",
+        "enemy_name": "CHGEE",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "60",
+        "stars_against": "44",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "355",
+        "enemy_name": "KISS MOMOY",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "60",
+        "stars_against": "51",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "356",
+        "enemy_name": "GENJI GOS",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "58",
+        "damage_for": "99.15",
+        "damage_against": "98.05"
+      },
+      {
+        "id": "357",
+        "enemy_name": "CHAPEU DE PALHA",
+        "enemy_level": "3",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "59",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "358",
+        "enemy_name": "CARLOS FIGHTERS",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "359",
+        "enemy_name": "EPIC WARRIOR",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "57",
+        "damage_for": "98.00",
+        "damage_against": "97.10"
+      },
+      {
+        "id": "360",
+        "enemy_name": "atak pa more",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "73",
+        "stars_against": "62",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "361",
+        "enemy_name": "tukmol klan",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "53",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "362",
+        "enemy_name": "Capsule Corp",
+        "enemy_level": "2",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "49",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "363",
+        "enemy_name": "INDESTRUCTIBLES",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "39",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "364",
+        "enemy_name": "SiMple claSHeR",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "30",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "365",
+        "enemy_name": "The Pweciouses",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "25",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "366",
+        "enemy_name": "T1w4L4g",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "40",
+        "damage_for": "97.67",
+        "damage_against": "92.33"
+      },
+      {
+        "id": "368",
+        "enemy_name": "#splash??",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "41",
+        "damage_for": "95.13",
+        "damage_against": "95.53"
+      },
+      {
+        "id": "369",
+        "enemy_name": "-:StorM:-",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "45",
+        "damage_for": "99.33",
+        "damage_against": "100.00"
+      },
+      {
+        "id": "370",
+        "enemy_name": "spartacus 10",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "27",
+        "stars_against": "22",
+        "damage_for": "92.50",
+        "damage_against": "81.90"
+      },
+      {
+        "id": "371",
+        "enemy_name": "Sarap PedOt",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "16",
+        "damage_for": "98.13",
+        "damage_against": "39.47"
+      },
+      {
+        "id": "373",
+        "enemy_name": "SSK Clashers",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "31",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "374",
+        "enemy_name": "#JLC909CJ",
+        "enemy_level": "3",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "43",
+        "damage_for": "99.80",
+        "damage_against": "95.80"
+      },
+      {
+        "id": "375",
+        "enemy_name": "GR@t_MaRiNeRs",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "35",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "376",
+        "enemy_name": "InsaneGaming",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "377",
+        "enemy_name": "Rhino Ducks",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "28",
+        "stars_against": "25",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "378",
+        "enemy_name": "VNPT PHu YEN",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "25",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "379",
+        "enemy_name": "Over30",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "38",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "380",
+        "enemy_name": "PURO WEBEO",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "55",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "381",
+        "enemy_name": "THE SHITZ",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "32",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "382",
+        "enemy_name": "WEAKpaMORE.ph",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "54",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "383",
+        "enemy_name": "Prince of War",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "41",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "384",
+        "enemy_name": "Chilenos Sport",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "36",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "385",
+        "enemy_name": "beauty dragon",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "44",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "386",
+        "enemy_name": "New World Order",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "42",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "387",
+        "enemy_name": "sampan war",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "26",
+        "stars_against": "26",
+        "damage_for": "92.00",
+        "damage_against": "88.00"
+      },
+      {
+        "id": "388",
+        "enemy_name": "#truestory",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "37",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "389",
+        "enemy_name": "Play with Fire",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "32",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "390",
+        "enemy_name": "#2RGQ9YU",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "32",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "391",
+        "enemy_name": "89 Hung Yen",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "44",
+        "damage_for": "94.07",
+        "damage_against": "97.27"
+      },
+      {
+        "id": "392",
+        "enemy_name": "Espana Warriors",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "38",
+        "damage_for": "98.60",
+        "damage_against": "89.07"
+      },
+      {
+        "id": "393",
+        "enemy_name": "Bownership",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "41",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "394",
+        "enemy_name": "teamFear iPERUI",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "37",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "395",
+        "enemy_name": "GV 24",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "33",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "396",
+        "enemy_name": "ClashOfCabritos",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "37",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "397",
+        "enemy_name": "Syrian Arrivals",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "19",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "398",
+        "enemy_name": "#YJRUREOQ",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "23",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "399",
+        "enemy_name": "cheeseNclashers",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "42",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "400",
+        "enemy_name": "Drem team",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "28",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "401",
+        "enemy_name": "NOVA HCMCUTE",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "41",
+        "damage_for": "94.73",
+        "damage_against": "95.67"
+      },
+      {
+        "id": "402",
+        "enemy_name": "Watford",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "34",
+        "damage_for": "97.47",
+        "damage_against": "81.13"
+      },
+      {
+        "id": "403",
+        "enemy_name": "Garrison Aryan",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "107",
+        "stars_against": "118",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "404",
+        "enemy_name": "#Q9RUY8Y9",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "40",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "405",
+        "enemy_name": "Dark Nova",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "33",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "406",
+        "enemy_name": "Pekanbaru fc",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "37",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "407",
+        "enemy_name": "LISAB TEAM",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "34",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "408",
+        "enemy_name": "HoMeBoYz",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "39",
+        "damage_for": "94.00",
+        "damage_against": "92.27"
+      },
+      {
+        "id": "409",
+        "enemy_name": "DCISIVE WARRIOR",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "37",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "410",
+        "enemy_name": "CELENG GULING",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "53",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "411",
+        "enemy_name": "Children of War",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "6",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "412",
+        "enemy_name": "The F Squad",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "41",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "413",
+        "enemy_name": "FACA NA CAVEIRA",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "414",
+        "enemy_name": "Mega Bomber",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "56",
+        "damage_for": "94.00",
+        "damage_against": "96.00"
+      },
+      {
+        "id": "415",
+        "enemy_name": "GET WRECKED!!!!",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "39",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "416",
+        "enemy_name": "persian gulf",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "31",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "417",
+        "enemy_name": "#GYL9CV",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "418",
+        "enemy_name": "ZIN MIN TOO COC",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "28",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "419",
+        "enemy_name": "QLJVG9UP",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "54",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "420",
+        "enemy_name": "War Contractors",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "54",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "421",
+        "enemy_name": "sourena",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "34",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "422",
+        "enemy_name": "#G9PGJP2U",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "16",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "423",
+        "enemy_name": "#JLCOCR8L",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "44",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "424",
+        "enemy_name": "DERPYNESS FALLS",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "57",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "425",
+        "enemy_name": "TWISTED",
+        "enemy_level": "6",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "58",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "426",
+        "enemy_name": "#RVY2YGPY",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "60",
+        "stars_against": "60",
+        "damage_for": "100.00",
+        "damage_against": "100.00"
+      },
+      {
+        "id": "427",
+        "enemy_name": "Vilas Medievais",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "60",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "428",
+        "enemy_name": "Young Pharoahs",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "50",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "429",
+        "enemy_name": "{{1634}}''{{1635}}",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "41",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "430",
+        "enemy_name": "HONRUMNgthieves",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "56",
+        "stars_against": "50",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "431",
+        "enemy_name": "TMT",
+        "enemy_level": "3",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "10",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "432",
+        "enemy_name": "#PRG9UJRC",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "53",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "433",
+        "enemy_name": "#JOPWO8L8",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "51",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "434",
+        "enemy_name": "IDK",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "50",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "436",
+        "enemy_name": "junior family",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "48",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "437",
+        "enemy_name": "Argentina Baires",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "32",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "438",
+        "enemy_name": "ARYAEE WARLIKES",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "41",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "439",
+        "enemy_name": "BoomSquadBros!!",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "41",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "440",
+        "enemy_name": "BONRIEN RIKI",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "51",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "441",
+        "enemy_name": "The Amateurs",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "71",
+        "stars_against": "63",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "442",
+        "enemy_name": "3* dynasty",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "72",
+        "stars_against": "71",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "443",
+        "enemy_name": "Tots N Jam",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "51",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "444",
+        "enemy_name": "#P999WYJ8",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "38",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "445",
+        "enemy_name": "TRibu PHils.",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "39",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "446",
+        "enemy_name": "PUNISHERS",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "53",
+        "stars_against": "53",
+        "damage_for": "90.20",
+        "damage_against": "89.45"
+      },
+      {
+        "id": "447",
+        "enemy_name": "IMPERIUM CLASH",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "34",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "448",
+        "enemy_name": "LOS VENGADORES",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "58",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "449",
+        "enemy_name": "ADIYOS",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "50",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "450",
+        "enemy_name": "isf clan",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "451",
+        "enemy_name": "LONG_THANH_CLUP",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "54",
+        "stars_against": "52",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "452",
+        "enemy_name": "Rash***Teror",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "56",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "453",
+        "enemy_name": "ASSETON TOP",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "26",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "454",
+        "enemy_name": "BROTHER 2017",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "39",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "455",
+        "enemy_name": "King of Goblins",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "44",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "456",
+        "enemy_name": "Hai Hau BD",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "37",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "457",
+        "enemy_name": "crazy moon",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "36",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "458",
+        "enemy_name": "TheSlayers",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "33",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "459",
+        "enemy_name": "Persian golf",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "25",
+        "damage_for": "94.67",
+        "damage_against": "59.40"
+      },
+      {
+        "id": "460",
+        "enemy_name": "Patani war",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "43",
+        "damage_for": "94.33",
+        "damage_against": "96.60"
+      },
+      {
+        "id": "461",
+        "enemy_name": "twelve monkeys",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "43",
+        "damage_for": "95.87",
+        "damage_against": "96.20"
+      },
+      {
+        "id": "462",
+        "enemy_name": "crazy warriors",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "43",
+        "damage_for": "98.33",
+        "damage_against": "98.33"
+      },
+      {
+        "id": "463",
+        "enemy_name": "Os Kamikazes",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "37",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "464",
+        "enemy_name": "indo people",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "26",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "465",
+        "enemy_name": "FMFD",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "37",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "466",
+        "enemy_name": "GADANG DIRANTAU",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "467",
+        "enemy_name": "Risen Embers",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "58",
+        "damage_for": "98.05",
+        "damage_against": "96.40"
+      },
+      {
+        "id": "468",
+        "enemy_name": "Hardcore",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "43",
+        "damage_for": "96.13",
+        "damage_against": "96.07"
+      },
+      {
+        "id": "469",
+        "enemy_name": "#ALFA VZLA#",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "38",
+        "stars_against": "37",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "470",
+        "enemy_name": "TK3 GROUP ELITE",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "43",
+        "damage_for": "96.87",
+        "damage_against": "95.80"
+      },
+      {
+        "id": "471",
+        "enemy_name": "Tan Ky FC 2",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "43",
+        "damage_for": "92.13",
+        "damage_against": "97.60"
+      },
+      {
+        "id": "472",
+        "enemy_name": "China #9VJYL2LV",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "473",
+        "enemy_name": "mbah Jenggot",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "29",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "474",
+        "enemy_name": "Fleet baseball",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "475",
+        "enemy_name": "#QUQJ2CVJ",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "28",
+        "stars_against": "15",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "476",
+        "enemy_name": "Sao Domingos",
+        "enemy_level": "0",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "9",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "477",
+        "enemy_name": "AFG...WOLVES",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "44",
+        "damage_for": "99.73",
+        "damage_against": "99.00"
+      },
+      {
+        "id": "478",
+        "enemy_name": "true frends",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "45",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "479",
+        "enemy_name": "Mariner",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "29",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "480",
+        "enemy_name": "Al..BARBAZA2",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "29",
+        "damage_for": "96.10",
+        "damage_against": "96.90"
+      },
+      {
+        "id": "481",
+        "enemy_name": "#RPJGQRJ8",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "36",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "482",
+        "enemy_name": "Spankins",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "55",
+        "stars_against": "59",
+        "damage_for": "95.25",
+        "damage_against": "98.40"
+      },
+      {
+        "id": "483",
+        "enemy_name": "RA-KA CREW",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "26",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "484",
+        "enemy_name": "Alpha Dawgs",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "40",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "485",
+        "enemy_name": "BlackGem.bR",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "24",
+        "stars_against": "27",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "486",
+        "enemy_name": "ANTIMATTER",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "28",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "487",
+        "enemy_name": "Celestes",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "488",
+        "enemy_name": "Rajasthan",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "31",
+        "damage_for": "98.21",
+        "damage_against": "75.87"
+      },
+      {
+        "id": "489",
+        "enemy_name": "THE GREAT CLAN",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "29",
+        "damage_for": "100.00",
+        "damage_against": "99.80"
+      },
+      {
+        "id": "490",
+        "enemy_name": "McNUGGETS",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "29",
+        "damage_for": "100.00",
+        "damage_against": "96.90"
+      },
+      {
+        "id": "491",
+        "enemy_name": "GLORIYUS HUMAN",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "29",
+        "damage_for": "100.00",
+        "damage_against": "97.70"
+      },
+      {
+        "id": "492",
+        "enemy_name": "Beyond Clan",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "30",
+        "damage_for": "100.00",
+        "damage_against": "100.00"
+      },
+      {
+        "id": "493",
+        "enemy_name": "AKATSUKI A.R.C",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "28",
+        "stars_against": "26",
+        "damage_for": "98.50",
+        "damage_against": "91.30"
+      },
+      {
+        "id": "495",
+        "enemy_name": "#YQYLGOQ8",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "27",
+        "stars_against": "30",
+        "damage_for": "92.70",
+        "damage_against": "100.00"
+      },
+      {
+        "id": "496",
+        "enemy_name": "team pinasikat",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "12",
+        "stars_against": "14",
+        "damage_for": "91.40",
+        "damage_against": "91.00"
+      },
+      {
+        "id": "497",
+        "enemy_name": "Lanes Boys",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "13",
+        "stars_against": "11",
+        "damage_for": "99.80",
+        "damage_against": "80.80"
+      },
+      {
+        "id": "498",
+        "enemy_name": "No Tadins V2",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "28",
+        "stars_against": "29",
+        "damage_for": "94.30",
+        "damage_against": "96.70"
+      },
+      {
+        "id": "499",
+        "enemy_name": "Hill Bird",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "18",
+        "damage_for": "99.70",
+        "damage_against": "60.00"
+      },
+      {
+        "id": "500",
+        "enemy_name": "BS Misfits",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "27",
+        "stars_against": "26",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "501",
+        "enemy_name": "Mumcee Players",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "42",
+        "damage_for": "92.00",
+        "damage_against": "93.00"
+      },
+      {
+        "id": "502",
+        "enemy_name": "av@tar",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "42",
+        "damage_for": "98.00",
+        "damage_against": "96.00"
+      },
+      {
+        "id": "503",
+        "enemy_name": "AE BA MIEN",
+        "enemy_level": "5",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "28",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "504",
+        "enemy_name": "Soldier.VietNam",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "43",
+        "damage_for": "96.00",
+        "damage_against": "98.00"
+      },
+      {
+        "id": "505",
+        "enemy_name": "New-Clan",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "29",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "506",
+        "enemy_name": "one star99%",
+        "enemy_level": "14",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "35",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "507",
+        "enemy_name": "#909JJPYL",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "30",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "508",
+        "enemy_name": "AMIGOS DE MOE",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "29",
+        "damage_for": "99.10",
+        "damage_against": "97.00"
+      },
+      {
+        "id": "510",
+        "enemy_name": "THE COMPOUND",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "27",
+        "damage_for": "100.00",
+        "damage_against": "93.00"
+      },
+      {
+        "id": "511",
+        "enemy_name": "MISTER MAYHEM",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "28",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "512",
+        "enemy_name": "Bacon",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "27",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "513",
+        "enemy_name": "1",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "28",
+        "stars_against": "29",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "514",
+        "enemy_name": "Hillside",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "30",
+        "stars_against": "29",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "515",
+        "enemy_name": "TEAM XCS",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "29",
+        "damage_for": "98.00",
+        "damage_against": "98.30"
+      },
+      {
+        "id": "516",
+        "enemy_name": "Cats & Dogs",
+        "enemy_level": "15",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "44",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "517",
+        "enemy_name": "PURE POWER",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "44",
+        "damage_for": "100.00",
+        "damage_against": "98.40"
+      },
+      {
+        "id": "518",
+        "enemy_name": "#J089VV0Y Japan",
+        "enemy_level": "8",
+        "enemy_clan_tag": "",
+        "stars_for": "26",
+        "stars_against": "29",
+        "damage_for": "96.80",
+        "damage_against": "97.70"
+      },
+      {
+        "id": "519",
+        "enemy_name": "OUTLAWZ",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "42",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "521",
+        "enemy_name": "LwO Friends",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "38",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "522",
+        "enemy_name": "Phoenix Guild",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "28",
+        "damage_for": "97.50",
+        "damage_against": "97.00"
+      },
+      {
+        "id": "524",
+        "enemy_name": "arrow",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "525",
+        "enemy_name": "Beast Mode",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "28",
+        "stars_against": "29",
+        "damage_for": "95.10",
+        "damage_against": "98.20"
+      },
+      {
+        "id": "526",
+        "enemy_name": "KINGS POPP",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "27",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "527",
+        "enemy_name": "MORPHOSIS",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "29",
+        "damage_for": "97.00",
+        "damage_against": "95.00"
+      },
+      {
+        "id": "528",
+        "enemy_name": "CROMS Kingdom",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "28",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "529",
+        "enemy_name": "pangarap * 2015",
+        "enemy_level": "11",
+        "enemy_clan_tag": "",
+        "stars_for": "28",
+        "stars_against": "28",
+        "damage_for": "94.90",
+        "damage_against": "94.10"
+      },
+      {
+        "id": "530",
+        "enemy_name": "#98GUUL9V",
+        "enemy_level": "14",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "27",
+        "damage_for": "96.60",
+        "damage_against": "95.00"
+      },
+      {
+        "id": "531",
+        "enemy_name": "{{2023}}''{{2024}}",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "57",
+        "stars_against": "58",
+        "damage_for": "96.90",
+        "damage_against": "91.80"
+      },
+      {
+        "id": "532",
+        "enemy_name": "injoi Gaming",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "42",
+        "damage_for": "97.67",
+        "damage_against": "94.67"
+      },
+      {
+        "id": "533",
+        "enemy_name": "#P2Q8Q0VR",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "43",
+        "damage_for": "97.67",
+        "damage_against": "99.40"
+      },
+      {
+        "id": "534",
+        "enemy_name": "soaring eagle",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "535",
+        "enemy_name": "FDX BUSTERS",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "40",
+        "damage_for": "100.00",
+        "damage_against": "88.40"
+      },
+      {
+        "id": "536",
+        "enemy_name": "pro bosses",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "59",
+        "stars_against": "56",
+        "damage_for": "99.35",
+        "damage_against": "94.05"
+      },
+      {
+        "id": "537",
+        "enemy_name": "Star Cloud",
+        "enemy_level": "12",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "538",
+        "enemy_name": "{{2052}}''{{2053}}",
+        "enemy_level": "14",
+        "enemy_clan_tag": "",
+        "stars_for": "44",
+        "stars_against": "43",
+        "damage_for": "98.33",
+        "damage_against": "98.00"
+      },
+      {
+        "id": "539",
+        "enemy_name": "NUEVA NACION 2",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "45",
+        "stars_against": "44",
+        "damage_for": "100.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "540",
+        "enemy_name": "HUSTLE OR DIE",
+        "enemy_level": "14",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "42",
+        "damage_for": "92.00",
+        "damage_against": "96.00"
+      },
+      {
+        "id": "541",
+        "enemy_name": "WARZONE",
+        "enemy_level": "4",
+        "enemy_clan_tag": "",
+        "stars_for": "58",
+        "stars_against": "56",
+        "damage_for": "97.75",
+        "damage_against": "96.95"
+      },
+      {
+        "id": "542",
+        "enemy_name": "the big club",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "43",
+        "stars_against": "42",
+        "damage_for": "97.40",
+        "damage_against": "97.67"
+      },
+      {
+        "id": "543",
+        "enemy_name": "Republican Farm",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "41",
+        "stars_against": "42",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "544",
+        "enemy_name": "kurdish power",
+        "enemy_level": "13",
+        "enemy_clan_tag": "",
+        "stars_for": "42",
+        "stars_against": "41",
+        "damage_for": "97.13",
+        "damage_against": "93.73"
+      },
+      {
+        "id": "545",
+        "enemy_name": "LEGION CR",
+        "enemy_level": "7",
+        "enemy_clan_tag": "",
+        "stars_for": "40",
+        "stars_against": "43",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "546",
+        "enemy_name": "Pinoy WaRioRs",
+        "enemy_level": "10",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "27",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      },
+      {
+        "id": "547",
+        "enemy_name": "stainless",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "29",
+        "stars_against": "25",
+        "damage_for": "97.70",
+        "damage_against": "84.80"
+      },
+      {
+        "id": "548",
+        "enemy_name": "Irish Rebellion",
+        "enemy_level": "9",
+        "enemy_clan_tag": "",
+        "stars_for": "0",
+        "stars_against": "0",
+        "damage_for": "0.00",
+        "damage_against": "0.00"
+      }
+    ]
+  }
