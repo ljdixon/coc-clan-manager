@@ -1,16 +1,16 @@
 import React from 'react';
+import WarItem from './WarItem.jsx'
 
 const WarList = (props) => {
-    var rows = [];
-    props.wars.forEach((war) => {
-      let classes = war.warResult + " list-group-item d-flex justify-content-between align-items-center";
-      rows.push(
-        <li key={war.warId} className = {classes}>
-          ~FOG~ vs {war.warOpponent} {war.warScore}
-        </li>
-      )
-    })
-    return (<ul className="list-group">{rows}</ul>);
-  };
+  const warItems = props.wars.map((war) => {
+    return <WarItem key={war.warId}
+                    war={war}
+                    onWarClick={props.onWarClick}/>
+  });
 
-  export default WarList;
+  return (
+    <ul>{warItems}</ul>
+  )
+}
+  
+export default WarList;

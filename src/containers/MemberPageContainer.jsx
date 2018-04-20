@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Container } from 'semantic-ui-react';
 import firebase from '../firebase.js';
 import 'firebase/firestore';
 import MemberList from '../components/MemberList.jsx';
@@ -32,7 +33,9 @@ export class MemberPageContainer extends Component {
         return (
           <div>
             <Header />
-            <MemberList members={this.state.members} />
+            <Container text style={{ marginTop: '5em' }}>
+                <MemberList members={this.state.members} />
+            </Container>
           </div>
         );
       }
