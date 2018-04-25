@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import firebase from '../firebase.js';
-import { Button, Container } from 'react-materialize';
-import Modal from 'react-modal';
+import { Button, Modal, Container } from 'semantic-ui-react';
 import MemberSelect from "../components/MemberSelect";
 
 class EditWarModal extends Component {
@@ -15,10 +14,6 @@ class EditWarModal extends Component {
       isOpen: props.modalIsOpen
     };
     this.handleFormSubmit = this.handleFormSubmit.bind(this);
-  }
-
-  componentWillMount() {
-    Modal.setAppElement('body');
   }
 
   componentDidMount() {

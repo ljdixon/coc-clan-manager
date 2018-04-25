@@ -1,15 +1,14 @@
-import React, { Component } from 'react';
-import { BrowserRouter, Switch, Route, Link } from 'react-router-dom';
-import logo from './logo.svg';
+import React from 'react';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import './App.css';
-import FormContainer from './containers/FormContainer.js';
-import WarPageContainer from './containers/WarPageContainer.js';
-import MemberPageContainer from './containers/MemberPageContainer.js';
+import HomePageContainer from './containers/HomePageContainer.jsx';
+import WarPageContainer from './containers/WarPageContainer.jsx';
+import MemberPageContainer from './containers/MemberPageContainer.jsx';
 
 const App = props => (
     <BrowserRouter>
       <Switch>
-        <Route exact path="/" component={FormContainer}/>
+        <Route exact path="/" component={HomePageContainer}/>
         <Route exact path="/wars" component={WarPageContainer}/>
         <Route exact path="/members" component={MemberPageContainer}/>
       </Switch>

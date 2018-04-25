@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import firebase from '../firebase.js';
 import MemberSelect from "../components/MemberSelect";
 
 class MemberSelectContainer extends Component {

@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import firebase from '../firebase.js';
-import { Container,  Button, Icon } from 'semantic-ui-react';
+import { Container, Button, Icon } from 'semantic-ui-react';
 import WarList from '../components/WarList.jsx';
 import Header from '../components/Header.jsx';
 import EditWar from '../components/EditWar.jsx';
-import AddWarModal from "../containers/AddWarModal.jsx"
+import AddWar from "../containers/AddWar.jsx"
 
 class WarPageContainer extends Component {
     constructor(props) {
@@ -91,10 +91,8 @@ class WarPageContainer extends Component {
                 selectedWar: tempSelectedWar
             });
         } else {
-            console.log(e.target.name.match(/\d+/)[0]);
-            let index = e.target.name.match(/\d+/)[0];
             let tempSelectedWar = this.state.selectedWar;
-                tempSelectedWar.warMembers[index].name = e.target.value;
+            tempSelectedWar[e.target.name] = e.target.value;
             this.setState({
                 selectedWar: tempSelectedWar
             });
@@ -104,29 +102,19 @@ class WarPageContainer extends Component {
     handleFormSubmit(e) {
 		e.preventDefault();
 
-        console.log(this.state.selectedWar.warId);
-
         firebase.firestore().collection('wars').doc(this.state.selectedWar.warId).update({
             "opponent": this.state.selectedWar.warOpponent,
-            "members": this.state.selectedWar.warMembers
+            "members": this.state.selectedWar.warMembers,
+            "stars_for": this.state.selectedWar.starsFor,
+            "stars_against": this.state.selectedWar.starsAgainst,
+            "damage_for": this.state.selectedWar.damageFor,
+            "damage_against": this.state.selectedWar.damageAgainst
         })
 
-        /* const war = {
-        members: this.state.selectedMembers,
-        opponent: this.state.opponentName,
-        stars_for: 0,
-        stars_against: 0,
-        damage_for: 0,
-        damage_against: 0
-        }
-        */
-
-        //warsRef.add(war);
         this.closeEditWarModal()
         this.setState({
             warSize: 0
         });
-            //this.handleClearForm(e);
 	}
 
     componentDidMount() {
@@ -163,34 +151,26 @@ class WarPageContainer extends Component {
                     wars: newState
                 });
             })
-            console.log(newState);
         });
     }
 
     render() {
         return (
             <div>
-            <Header />
-            <Container text style={{ marginTop: '5em' }}>
-                <Button icon onClick={() => this.openAddWarModal()}><Icon color="red" name="plus"></Icon></Button>
-                <WarList wars={this.state.wars} onWarClick={ selectedWar => this.handleClick(selectedWar) } />
-                <EditWar 
-                    war={this.state.selectedWar}
-                    handleChange={this.handleChange}
-                    handleFormSubmit={this.handleFormSubmit}
-                    modalIsOpen={this.state.editWarModalIsOpen}
-                    onRequestClose={ () => this.closeEditWarModal() }/>
-                <AddWarModal  
-                    modalIsOpen={this.state.addWarModalIsOpen}
-                    onRequestClose={ () => this.closeAddWarModal() }/>
-                {/*
-                <EditWarModal 
-                    war={this.state.selectedWar}
-                    handleChange={this.handleChange}
-                    modalIsOpen={this.state.editWarModalIsOpen}
-                    onRequestClose={ () => this.closeEditWarModal() }/>
-                */}
-          </Container>
+                <Header />
+                <Container text style={{ marginTop: '5em' }}>
+                    <Button color="red" onClick={() => this.openAddWarModal()} inverted><Icon name="plus"></Icon>Add War</Button>
+                    <WarList wars={this.state.wars} onWarClick={ selectedWar => this.handleClick(selectedWar) } />
+                    <EditWar 
+                        war={this.state.selectedWar}
+                        handleChange={this.handleChange}
+                        handleFormSubmit={this.handleFormSubmit}
+                        modalIsOpen={this.state.editWarModalIsOpen}
+                        onRequestClose={ () => this.closeEditWarModal() }/>
+                    <AddWar  
+                        modalIsOpen={this.state.addWarModalIsOpen}
+                        onRequestClose={ () => this.closeAddWarModal() }/>
+            </Container>
           </div>
         );
       }

@@ -1,11 +1,11 @@
 const admin = require('./node_modules/firebase-admin');
 const serviceAccount = require("./service-key.json");
 
-const data = require("./data.json");
+const data = require("./war.json");
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
-    databaseURL: "https://YOUR_DB.firebaseio.com"
+    databaseURL: "https://clanfog-a337a.firebaseio.com"
 });
 
 data && Object.keys(data).forEach(key => {
@@ -15,7 +15,7 @@ data && Object.keys(data).forEach(key => {
         Object.keys(nestedContent).forEach(docTitle => {
             admin.firestore()
                 .collection(key)
-                .doc(docTitle)
+                .doc()
                 .set(nestedContent[docTitle])
                 .then((res) => {
                     console.log("Document successfully written!");

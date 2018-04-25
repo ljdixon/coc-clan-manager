@@ -1,5 +1,6 @@
 import React from 'react';
 import WarItem from './WarItem.jsx'
+import { List } from 'semantic-ui-react';
 
 const WarList = (props) => {
   const warItems = props.wars.map((war) => {
@@ -9,7 +10,7 @@ const WarList = (props) => {
   });
 
   return (
-    <ul>{warItems}</ul>
+    <List selection>{warItems}</List>
   )
 }
   

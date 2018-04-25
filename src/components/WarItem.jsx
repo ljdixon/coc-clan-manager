@@ -1,9 +1,13 @@
 import React from 'react';
-import { Button } from 'semantic-ui-react';
+import { List } from 'semantic-ui-react';
 
 const WarItem = ({war, onWarClick}) => {
     return (
-        <li><Button onClick={() => onWarClick(war)} >~FOG~ vs {war.warOpponent} {war.warScore}</Button></li>
+        <List.Item onClick={() => onWarClick(war)}>
+            <List.Content>
+                <List.Header className={war.warResult}>~FOG~ vs {war.warOpponent} {war.warScore} </List.Header>
+            </List.Content>
+        </List.Item>
     )
 };
 
