@@ -69,7 +69,7 @@ class AddWar extends Component {
 
     console.log(this.state.selectedMembers);
 
-    const warsRef = firebase.firestore().collection('wars');
+    const warsRef = firebase.firestore.collection('wars');
     const war = {
       members: this.state.selectedMembers,
       opponent: this.state.opponentName,
