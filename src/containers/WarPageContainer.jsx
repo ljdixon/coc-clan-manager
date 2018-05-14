@@ -1,10 +1,14 @@
 import React, { Component } from 'react';
-import firebase from '../firebase.js';
+import { firebase } from '../firebase';
 import { Container, Button, Icon } from 'semantic-ui-react';
 import WarList from '../components/WarList.jsx';
 import Header from '../components/Header.jsx';
 import EditWar from '../components/EditWar.jsx';
 import AddWar from "../containers/AddWar.jsx"
+import withAuthorization from '../components/withAuthorization';
+import AuthUserContext from '../components/AuthUserContext';
+
+const authCondition = (authUser) => !!authUser;
 
 class WarPageContainer extends Component {
     constructor(props) {
@@ -102,7 +106,7 @@ class WarPageContainer extends Component {
     handleFormSubmit(e) {
 		e.preventDefault();
 
-        firebase.firestore().collection('wars').doc(this.state.selectedWar.warId).update({
+        firebase.firestore.collection('wars').doc(this.state.selectedWar.warId).update({
             "opponent": this.state.selectedWar.warOpponent,
             "members": this.state.selectedWar.warMembers,
             "stars_for": this.state.selectedWar.starsFor,
@@ -118,7 +122,7 @@ class WarPageContainer extends Component {
 	}
 
     componentDidMount() {
-        const warsRef = firebase.firestore().collection('wars');
+        const warsRef = firebase.firestore.collection('wars');
         warsRef.onSnapshot((snapshot) => {
             let newState = [];
             snapshot.forEach((war) => {
@@ -156,24 +160,29 @@ class WarPageContainer extends Component {
 
     render() {
         return (
-            <div>
-                <Header />
-                <Container text style={{ marginTop: '5em' }}>
-                    <Button color="red" onClick={() => this.openAddWarModal()} inverted><Icon name="plus"></Icon>Add War</Button>
-                    <WarList wars={this.state.wars} onWarClick={ selectedWar => this.handleClick(selectedWar) } />
-                    <EditWar 
-                        war={this.state.selectedWar}
-                        handleChange={this.handleChange}
-                        handleFormSubmit={this.handleFormSubmit}
-                        modalIsOpen={this.state.editWarModalIsOpen}
-                        onRequestClose={ () => this.closeEditWarModal() }/>
-                    <AddWar  
-                        modalIsOpen={this.state.addWarModalIsOpen}
-                        onRequestClose={ () => this.closeAddWarModal() }/>
-            </Container>
-          </div>
+            <AuthUserContext.Consumer>
+                {authUser => authUser
+                    ?
+                        <div>
+                            <Container text style={{ marginTop: '5em' }}>
+                                <Button color="red" onClick={() => this.openAddWarModal()} inverted><Icon name="plus"></Icon>Add War</Button>
+                                <WarList wars={this.state.wars} onWarClick={ selectedWar => this.handleClick(selectedWar) } />
+                                <EditWar 
+                                    war={this.state.selectedWar}
+                                    handleChange={this.handleChange}
+                                    handleFormSubmit={this.handleFormSubmit}
+                                    modalIsOpen={this.state.editWarModalIsOpen}
+                                    onRequestClose={ () => this.closeEditWarModal() } />
+                                        <AddWar  
+                                            modalIsOpen={this.state.addWarModalIsOpen}
+                                            onRequestClose={ () => this.closeAddWarModal() } />
+                            </Container>
+                        </div>
+                        : null
+                    }
+          </AuthUserContext.Consumer>    
         );
       }
 }
 
-export default WarPageContainer;
+export default withAuthorization(authCondition)(WarPageContainer);

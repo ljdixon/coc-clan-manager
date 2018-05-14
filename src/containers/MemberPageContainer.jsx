@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Container } from 'semantic-ui-react';
-import firebase from '../firebase.js';
-import 'firebase/firestore';
+import { firebase } from '../firebase';
 import MemberList from '../components/MemberList.jsx';
 import Header from '../components/Header.jsx';
 
@@ -13,7 +12,7 @@ export class MemberPageContainer extends Component {
         };
     }
     componentDidMount() {
-        const membersRef = firebase.firestore().collection('members');
+        const membersRef = firebase.firestore.collection('members');
         membersRef.where("active", "==", true).onSnapshot((snapshot) => {
             let newState = [];
             snapshot.forEach((member) => {
@@ -32,8 +31,7 @@ export class MemberPageContainer extends Component {
     render() {
         return (
           <div>
-            <Header />
-            <Container text style={{ marginTop: '5em' }}>
+            <Container text style={{ marginTop: '5em' }} >
                 <MemberList members={this.state.members} />
             </Container>
           </div>

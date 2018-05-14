@@ -4,10 +4,12 @@ import HomePage from '../components/HomePage.jsx';
 import Header from '../components/Header.jsx';
 
 export class HomePageContainer extends Component {
+  constructor(props) {
+    super(props);
+}
     render() {
         return (
           <div>
-            <Header />
             <Container text style={{ marginTop: '5em' }}>
               <HomePage />
             </Container>

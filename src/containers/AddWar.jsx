@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import firebase from '../firebase.js';
+import { firebase } from '../firebase';
 import AddWarModal from "../components/AddWarModal.jsx"
 
 class AddWar extends Component {
@@ -18,7 +18,7 @@ class AddWar extends Component {
   }
   
   componentDidMount() {
-    const membersRef = firebase.firestore().collection('members');
+    const membersRef = firebase.firestore.collection('members');
     membersRef.where("active", "==", true).onSnapshot((snapshot) => {
         let newState = [];
         snapshot.forEach((member) => {
