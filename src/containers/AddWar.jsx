@@ -36,14 +36,12 @@ class AddWar extends Component {
   handleChange(e) {
     if(e.target.name !== "warSize" && e.target.name !== "opponentName" && e.target.name !== "opponentLevel") {
       let tempSelectedMembers = this.state.selectedMembers
-      //tempSelectedMembers[e.target.name] = e.target.value
-      tempSelectedMembers.push({
-        assignment:'',
-        name: e.target.value
-      })
+      tempSelectedMembers[e.target.name] = { name: e.target.value, assignment: '' };
+
       this.setState({
         selectedMembers: tempSelectedMembers
       });
+      console.log(this.state.selectedMembers);
     } else if(e.target.name === "warSize") {
       let tempSelectedMembers = this.state.selectedMembers;
       if(e.target.value === 5) {
@@ -82,7 +80,8 @@ class AddWar extends Component {
     warsRef.add(war);
     this.props.onRequestClose();
     this.setState({
-      warSize: 0
+      warSize: 0,
+      selectedMembers: []
     });
 		//this.handleClearForm(e);
 	}

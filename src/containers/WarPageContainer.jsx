@@ -2,13 +2,12 @@ import React, { Component } from 'react';
 import { firebase } from '../firebase';
 import { Container, Button, Icon } from 'semantic-ui-react';
 import WarList from '../components/WarList.jsx';
-import Header from '../components/Header.jsx';
 import EditWar from '../components/EditWar.jsx';
 import AddWar from "../containers/AddWar.jsx"
 import withAuthorization from '../components/withAuthorization';
 import AuthUserContext from '../components/AuthUserContext';
 
-const authCondition = (authUser) => !!authUser;
+const authCondition = (authUser) => !!authUser && authUser.email === 'leonardjdixon@gmail.com';
 
 class WarPageContainer extends Component {
     constructor(props) {
@@ -86,7 +85,7 @@ class WarPageContainer extends Component {
             this.setState({
                 selectedWar: tempSelectedWar
             });
-        } else if(e.target.name.includes("assignment")) {
+        } else if(e.target.name.indexOf("assignment") >= 0) {
             console.log(e.target.name.match(/\d+/)[0]);
             let index = e.target.name.match(/\d+/)[0];
             let tempSelectedWar = this.state.selectedWar;
@@ -160,9 +159,7 @@ class WarPageContainer extends Component {
 
     render() {
         return (
-            <AuthUserContext.Consumer>
-                {authUser => authUser
-                    ?
+         
                         <div>
                             <Container text style={{ marginTop: '5em' }}>
                                 <Button color="red" onClick={() => this.openAddWarModal()} inverted><Icon name="plus"></Icon>Add War</Button>
@@ -173,14 +170,12 @@ class WarPageContainer extends Component {
                                     handleFormSubmit={this.handleFormSubmit}
                                     modalIsOpen={this.state.editWarModalIsOpen}
                                     onRequestClose={ () => this.closeEditWarModal() } />
-                                        <AddWar  
-                                            modalIsOpen={this.state.addWarModalIsOpen}
-                                            onRequestClose={ () => this.closeAddWarModal() } />
+                                <AddWar  
+                                    modalIsOpen={this.state.addWarModalIsOpen}
+                                    onRequestClose={ () => this.closeAddWarModal() } />
                             </Container>
                         </div>
-                        : null
-                    }
-          </AuthUserContext.Consumer>    
+ 
         );
       }
 }

@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Container } from 'semantic-ui-react';
 import { firebase } from '../firebase';
 import MemberList from '../components/MemberList.jsx';
-import Header from '../components/Header.jsx';
 
 export class MemberPageContainer extends Component {
     constructor(props) {
