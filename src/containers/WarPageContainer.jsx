@@ -7,7 +7,7 @@ import AddWar from "../containers/AddWar.jsx"
 import withAuthorization from '../components/withAuthorization';
 import AuthUserContext from '../components/AuthUserContext';
 
-const authCondition = (authUser) => !!authUser && authUser.email === 'leonardjdixon@gmail.com';
+const authCondition = (authUser) => !!authUser && (authUser.email === 'leonardjdixon@gmail.com' || authUser.email === 'demo@clanfog.com');
 
 class WarPageContainer extends Component {
     constructor(props) {
