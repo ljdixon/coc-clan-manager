@@ -7,7 +7,6 @@ const EditWar = (props) => {
     <Modal
         open={props.modalIsOpen}
         onClose={props.onRequestClose}
-        style={{ marginTop: '-600px', height: '200px' }}
         closeIcon>
         <Modal.Content scrolling>
         <Form className="container" onSubmit={props.handleFormSubmit}>

@@ -7,7 +7,6 @@ const AddWarModal = (props) => {
         <Modal
             open={props.modalIsOpen}
             onClose={props.onRequestClose}
-            style={{ marginTop: '-600px', height: '200px' }}
             closeIcon>
             <Modal.Header>Add War</Modal.Header>
             <Modal.Content scrolling>

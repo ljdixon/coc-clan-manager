@@ -65,7 +65,7 @@ class EditWarModal extends Component {
         isOpen={this.props.modalIsOpen}
         onRequestClose={this.props.onRequestClose}
         contentLabel="Example Modal" >
-         <Container text style={{ marginTop: '5em' }}>
+         <Container text>
           <form className="container" onSubmit={this.handleFormSubmit}>
             <label>Opponent Name: </label><input type="text" name="opponentName" onChange={this.props.handleChange} value={this.props.war.warOpponent} />
             <label>War size:</label><input value={this.state.warSize} name="warSize" onChange={this.handleChange} type="number" step="5" min="0" max="50" />

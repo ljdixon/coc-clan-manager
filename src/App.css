@@ -34,7 +34,3 @@
 .lost {
   color: red;
 }
-
-.dimmed.dimmable > .ui.modals.dimmer.visible {
-  display: flex !important;
-}
