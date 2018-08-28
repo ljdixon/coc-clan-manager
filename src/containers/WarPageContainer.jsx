@@ -122,7 +122,7 @@ class WarPageContainer extends Component {
 
     componentDidMount() {
         const warsRef = firebase.firestore.collection('wars');
-        warsRef.onSnapshot((snapshot) => {
+        warsRef.orderBy('timestamp', 'desc').onSnapshot((snapshot) => {
             let newState = [];
             snapshot.forEach((war) => {
                 let score = "(" + war.data().stars_for + " - " + war.data().stars_against + ")";

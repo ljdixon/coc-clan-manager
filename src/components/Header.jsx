@@ -1,6 +1,7 @@
 import React from 'react';
-import { Container, Menu} from 'semantic-ui-react'
+import { Container, Menu, Image} from 'semantic-ui-react'
 import { Link } from 'react-router-dom';
+import logoImage from '../images/logo.png';
 
 import AuthUserContext from './AuthUserContext';
 import SignOutButton from '../containers/SignOut';

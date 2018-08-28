@@ -74,7 +74,8 @@ class AddWar extends Component {
       stars_for: 0,
       stars_against: 0,
       damage_for: 0,
-      damage_against: 0
+      damage_against: 0,
+      timestamp: new Date()
     }
 
     warsRef.add(war);
